@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "package_id": "com.benighter.beniflix",
-  "version_code": 100,
-  "version_name": "0.1.0",
-  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.0/Beniflix-0.1.0.apk",
-  "sha256": "d931fdbf82dfceb906ce1073a0754097cf602eb337cbddf297b5ad0b8282d47b",
+  "version_code": 101,
+  "version_name": "0.1.1",
+  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.1/Beniflix-0.1.1.apk",
+  "sha256": "9e870362378ed568e5e42868283382336a3031b1780a4dec416f6f20fb00cdbf",
   "size_bytes": 13440931,
-  "release_notes": "Beniflix 0.1.0\n\nA new cinematic interface with warm colors, animated feedback, fixed navigation and dark/light themes.\n\nBrowse and search movies and TV shows, choose seasons and episodes, save Favorites, resume watching, and download supported videos with subtitles for offline playback.\n\nIncludes ad and popup blocking, fullscreen Fit/Fill, touch seeking and an in-app update checker.\n\nVideo availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation."
+  "release_notes": "Beniflix 0.1.1\n\nA new cinematic interface with warm colors, animated feedback, fixed navigation and dark/light themes.\n\nBrowse and search movies and TV shows, choose seasons and episodes, save Favorites, resume watching, and download supported videos with subtitles for offline playback.\n\nIncludes ad and popup blocking, fullscreen Fit/Fill, touch seeking and an in-app update checker.\n\nVideo availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation.\n\nUnsupported external player documents are blocked to improve playback stability."
 }

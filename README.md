@@ -1,6 +1,6 @@
 # Beniflix for Android
 
-[Download Beniflix 0.1.0](https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.0/Beniflix-0.1.0.apk)
+[Download Beniflix 0.1.1](https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.1/Beniflix-0.1.1.apk)
 
 A cinematic movie and TV app with a Rust core, ad and popup blocking, Favorites, watching progress, subtitles, and supported offline downloads. Requires Android 8 or newer and an up-to-date Android System WebView. The APK includes ARM64 and x86_64 support.
 

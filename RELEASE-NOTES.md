@@ -1,4 +1,4 @@
-Beniflix 0.1.0
+Beniflix 0.1.1
 
 A new cinematic interface with warm colors, animated feedback, fixed navigation and dark/light themes.
 
@@ -7,3 +7,5 @@ Browse and search movies and TV shows, choose seasons and episodes, save Favorit
 Includes ad and popup blocking, fullscreen Fit/Fill, touch seeking and an in-app update checker.
 
 Video availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation.
+
+Unsupported external player documents are blocked to improve playback stability.
