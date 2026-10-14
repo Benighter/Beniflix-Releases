@@ -1,11 +1,9 @@
-Beniflix 0.1.1
+Beniflix 0.1.2
 
-A new cinematic interface with warm colors, animated feedback, fixed navigation and dark/light themes.
+A new black and red interface with a custom B launcher icon, a Beniflix wordmark, a short light-streak launch animation, poster shelves and fixed bottom navigation.
 
-Browse and search movies and TV shows, choose seasons and episodes, save Favorites, resume watching, and download supported videos with subtitles for offline playback.
+Tap the fullscreen viewing surface to show controls; tap again to hide them, including while paused. Double-tap either side to seek, or use the centered play/pause and 5/10-second skip controls. Captions move above the seek bar while controls are open.
 
-Includes ad and popup blocking, fullscreen Fit/Fill, touch seeking and an in-app update checker.
+Favorites, watching progress, movies, TV seasons and supported offline downloads continue to work with the same app identity and signing key.
 
 Video availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation.
-
-Unsupported external player documents are blocked to improve playback stability.

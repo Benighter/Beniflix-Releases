@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "package_id": "com.benighter.beniflix",
-  "version_code": 101,
-  "version_name": "0.1.1",
-  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.1/Beniflix-0.1.1.apk",
-  "sha256": "9e870362378ed568e5e42868283382336a3031b1780a4dec416f6f20fb00cdbf",
-  "size_bytes": 13440931,
-  "release_notes": "Beniflix 0.1.1\n\nA new cinematic interface with warm colors, animated feedback, fixed navigation and dark/light themes.\n\nBrowse and search movies and TV shows, choose seasons and episodes, save Favorites, resume watching, and download supported videos with subtitles for offline playback.\n\nIncludes ad and popup blocking, fullscreen Fit/Fill, touch seeking and an in-app update checker.\n\nVideo availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation.\n\nUnsupported external player documents are blocked to improve playback stability."
+  "version_code": 102,
+  "version_name": "0.1.2",
+  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.2/Beniflix-0.1.2.apk",
+  "sha256": "592b68a2a5951d147067a5ff1fb5b5053a2cc14e331589fe8bb4706f21462b1b",
+  "size_bytes": 13444611,
+  "release_notes": "Beniflix 0.1.2\n\nA new black and red interface with a custom B launcher icon, a Beniflix wordmark, a short light-streak launch animation, poster shelves and fixed bottom navigation.\n\nTap the fullscreen viewing surface to show controls; tap again to hide them, including while paused. Double-tap either side to seek, or use the centered play/pause and 5/10-second skip controls. Captions move above the seek bar while controls are open.\n\nFavorites, watching progress, movies, TV seasons and supported offline downloads continue to work with the same app identity and signing key.\n\nVideo availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation."
 }
