@@ -1,9 +1,11 @@
-Beniflix 0.1.2
+Beniflix 0.1.3
 
-A new black and red interface with a custom B launcher icon, a Beniflix wordmark, a short light-streak launch animation, poster shelves and fixed bottom navigation.
+• See Watched / Not watched labels and watched totals for each season. Episodes are marked near the end of real streamed or offline playback, and you can mark or unmark them yourself.
+• Start several downloads at the same time, with separate progress, cancellation and retry for each episode.
+• Download a whole season in one action. Episodes already saved or downloading are skipped, and every episode remains playable separately.
+• Prevent duplicate episode jobs from repeated taps or overlapping individual/season downloads. Existing completed media is preserved.
+• Improved episode controls and search on smaller screens, including with the keyboard open.
 
-Tap the fullscreen viewing surface to show controls; tap again to hide them, including while paused. Double-tap either side to seek, or use the centered play/pause and 5/10-second skip controls. Captions move above the seek bar while controls are open.
+Watched status, Favorites and resume positions stay on this device. Older watched episodes can be recovered only when saved completion progress still exists; use the manual marker for earlier viewing.
 
-Favorites, watching progress, movies, TV seasons and supported offline downloads continue to work with the same app identity and signing key.
-
-Video availability, quality and separate subtitles depend on the selected source. Protected and live streams are not downloadable. Android asks you to approve app-update installation.
+Downloads still follow your Wi-Fi preference. Speed and availability depend on the connection, device and video provider. Supported finite HLS downloads only; protected and live streams remain unsupported. Android asks you to approve update installation.
