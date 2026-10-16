@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "package_id": "com.benighter.beniflix",
-  "version_code": 103,
-  "version_name": "0.1.3",
-  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.3/Beniflix-0.1.3.apk",
-  "sha256": "1ad7cb29191fd49d8511601ab9fab10be04ed538ee25d5a8f5e4d43532730e71",
-  "size_bytes": 13483703,
-  "release_notes": "Beniflix 0.1.3\n\n• See Watched / Not watched labels and watched totals for each season. Episodes are marked near the end of real streamed or offline playback, and you can mark or unmark them yourself.\n• Start several downloads at the same time, with separate progress, cancellation and retry for each episode.\n• Download a whole season in one action. Episodes already saved or downloading are skipped, and every episode remains playable separately.\n• Prevent duplicate episode jobs from repeated taps or overlapping individual/season downloads. Existing completed media is preserved.\n• Improved episode controls and search on smaller screens, including with the keyboard open.\n\nWatched status, Favorites and resume positions stay on this device. Older watched episodes can be recovered only when saved completion progress still exists; use the manual marker for earlier viewing.\n\nDownloads still follow your Wi-Fi preference. Speed and availability depend on the connection, device and video provider. Supported finite HLS downloads only; protected and live streams remain unsupported. Android asks you to approve update installation."
+  "version_code": 104,
+  "version_name": "0.1.4",
+  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.4/Beniflix-0.1.4.apk",
+  "sha256": "3e408f1876b88966bbec66de7ee558147c42290e4c41b03bc250baabc8f77e2e",
+  "size_bytes": 13483735,
+  "release_notes": "Beniflix 0.1.4\n\n• See Watched / Not watched labels and watched totals for each season. Episodes are marked near the end of real streamed or offline playback, and you can mark or unmark them yourself.\n• Start several downloads at the same time, with separate progress, cancellation and retry for each episode.\n• Download a whole season in one action. Episodes already saved or downloading are skipped, and every episode remains playable separately.\n• Prevent duplicate episode jobs from repeated taps or overlapping individual/season downloads. Existing completed media is preserved.\n• Download refreshes preserve your episode-list position and search filter.\n• Improved episode controls and search on smaller screens, including with the keyboard open.\n\nWatched status, Favorites and resume positions stay on this device. Older watched episodes can be recovered only when saved completion progress still exists; use the manual marker for earlier viewing.\n\nDownloads still follow your Wi-Fi preference. Speed and availability depend on the connection, device and video provider. Supported finite HLS downloads only; protected and live streams remain unsupported. Android asks you to approve update installation."
 }
