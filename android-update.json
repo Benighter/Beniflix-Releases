@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "package_id": "com.benighter.beniflix",
-  "version_code": 104,
-  "version_name": "0.1.4",
-  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.4/Beniflix-0.1.4.apk",
-  "sha256": "3e408f1876b88966bbec66de7ee558147c42290e4c41b03bc250baabc8f77e2e",
-  "size_bytes": 13483735,
-  "release_notes": "Beniflix 0.1.4\n\n• See Watched / Not watched labels and watched totals for each season. Episodes are marked near the end of real streamed or offline playback, and you can mark or unmark them yourself.\n• Start several downloads at the same time, with separate progress, cancellation and retry for each episode.\n• Download a whole season in one action. Episodes already saved or downloading are skipped, and every episode remains playable separately.\n• Prevent duplicate episode jobs from repeated taps or overlapping individual/season downloads. Existing completed media is preserved.\n• Download refreshes preserve your episode-list position and search filter.\n• Improved episode controls and search on smaller screens, including with the keyboard open.\n\nWatched status, Favorites and resume positions stay on this device. Older watched episodes can be recovered only when saved completion progress still exists; use the manual marker for earlier viewing.\n\nDownloads still follow your Wi-Fi preference. Speed and availability depend on the connection, device and video provider. Supported finite HLS downloads only; protected and live streams remain unsupported. Android asks you to approve update installation."
+  "version_code": 105,
+  "version_name": "0.1.5",
+  "apk_url": "https://github.com/Benighter/Beniflix-Releases/releases/download/v0.1.5/Beniflix-0.1.5.apk",
+  "sha256": "c45eba10fa8269e38a351e3622484072fb59be9fe62f1c93a01e019bd60827ae",
+  "size_bytes": 13488135,
+  "release_notes": "Beniflix 0.1.5\n\n• Restores Home, Browse, search and title details after the catalogue website changed its address.\n• Preserves Favorites, watched-episode markers, resume progress and downloaded videos.\n\nOnline video availability still depends on the catalogue and its video servers. Android asks you to approve update installation."
 }
